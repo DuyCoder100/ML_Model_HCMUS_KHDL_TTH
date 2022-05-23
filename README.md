@@ -8,7 +8,6 @@
 
 ## 2. Data visualization.
 
-
 ## 3. Mô hình hồi quy Ridge.
 
 ### 3.1. Lý thuyết.
